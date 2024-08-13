@@ -99,7 +99,7 @@ public static void main(String args[] args) {
 - HTML img 요소와 동일한 것
 - ![이미지 설명](이미지경로)
 
-![강아지](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.outsideonline.com%2Fculture%2Factive-families%2Fhow-to-read-dog-body-language-happy-aggressive%2F&psig=AOvVaw0s2rZGMC1xjUHCCb0COEtu&ust=1723603390354000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCMDO-ZD58IcDFQAAAAAdAAAAABAK)
+![강아지](./images.jpg)
 
 ### HTML 사용
 - 마크다운 대신 HTML 사용 가능
